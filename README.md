@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Matt</h1>
 <h3 align="center">A frontend developer located in Connecticut</h3>
 
-- 🔭 I’m currently working on [FilmLog](http://www.github.com/demartinom/film-log)
 
 - 👨‍💻 See my portfolio at [http://www.mattdemartino.com](http://www.mattdemartino.com)
 
