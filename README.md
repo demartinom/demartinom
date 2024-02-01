@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demartinom&show_icons=true&locale=en&layout=compact" alt="demartinom" /></p>
 
-![](https://komarev.com/ghpvc/?username=demartinom)
+![](https://hit.yhype.me/github/profile?user_id=102242515)
