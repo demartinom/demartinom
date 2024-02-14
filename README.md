@@ -5,7 +5,7 @@
 
 - 📖 GWU and SOAS alumni, self taught developer
   
-- 🌱 I’m currently learning **Python, specifically Django**
+- 🌱 I’m currently **Improving my fundamentals/giving Go a go**
 
 - 📄 [View my resume](https://www.mattdemartino.com/MattDeMartino_Resume.pdf)
 
