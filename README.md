@@ -5,7 +5,7 @@
 
 - 📖 GWU and SOAS alumni, self taught developer
   
-- 🌱 I’m currently working on: **[working on FilmLog v2](https://github.com/demartinom/filmlog-v2)/ [giving Go a go](https://github.com/demartinom/for-the-love-of-go)**
+- 🌱 I’m currently: **[working on FilmLog v2](https://github.com/demartinom/filmlog-v2)/ [giving Go a go](https://github.com/demartinom/for-the-love-of-go)**
 
 - 📄 [View my resume](https://www.mattdemartino.com/MattDeMartino_Resume.pdf)
 
