@@ -5,7 +5,7 @@
 
 - 📖 GWU and SOAS alumni, self taught developer
   
-- 🌱 I’m currently: **[Go List Ranker](https://github.com/demartinom/for-the-love-of-go)**
+- 🌱 I’m currently: **[Working on a Go List Ranker](https://github.com/demartinom/for-the-love-of-go)**
 
 - 📄 [View my resume](https://www.mattdemartino.com/MattDeMartino_Resume.pdf)
 
