@@ -9,7 +9,7 @@
 
 - 📄 [View my resume](https://www.mattdemartino.com/MattDeMartino_Resume.pdf)
 
-- ⚡ Hobbies include: **film photography, baking, and eating what I baked**
+- ⚡ Hobbies include: **film photography, baking, and crossfit**
 
 <h3 align="left">Connect with me:</h3>
 
